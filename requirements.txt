@@ -1,0 +1,6 @@
+numpy
+opencv-python
+RPi.GPIO
+mpu6050-raspberrypi
+picamera2
+tflite-runtime
