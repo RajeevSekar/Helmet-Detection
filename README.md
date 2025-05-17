@@ -63,9 +63,9 @@ python helmet_new.py
 - Ensure the model file `helmet.tflite` is placed in the same directory as `helmet_detection.py`.
 - You can modify the relay behavior based on your requirements.
 
+# Authors
+- [Rajeev Sekar](https://github.com/rajeevsekar)
+- [Abinaya Raghuraman](https://github.com/kanaekiii)
+
 ## License
 This project is open-source under the MIT License.
-Authors:
-Rajeev Sekar 
-Abinaya Raghuraman 
-
